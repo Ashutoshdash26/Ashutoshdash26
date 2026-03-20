@@ -4,14 +4,39 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Frontend+Developer;AI+Enthusiast;Java+%7C+Python+%7C+JavaScript;Building+Real+World+Projects" />
 </h3>
 
+<h3 align="center">🚀 Open to Internship & Full-Time Opportunities</h3>
+
+---
+
+## 🚀 Highlights
+
+- 💻 Frontend Developer with strong problem-solving skills  
+- 🤖 Built Deepfake Image Detection System using CNN & OpenCV  
+- ⚙️ Experience in Java, Python, Node.js & REST APIs  
+- 📚 Currently learning System Design & Multithreading  
+- 🎯 Actively seeking internship / placement opportunities  
+
 ---
 
 ## 💫 About Me
-A passionate developer from India, I bring a strong foundation in information technology and management, along with an analytical mindset and problem-solving approach. I enjoy building intuitive and user-friendly web interfaces using HTML, CSS, JavaScript, and modern frameworks, while also having experience in Java, Python, and Node.js for backend development.
+
+A passionate frontend developer from India, I bring a strong foundation in information technology and management, along with an analytical mindset and problem-solving approach. I enjoy building intuitive and user-friendly web interfaces using HTML, CSS, JavaScript, and modern frameworks, while also having experience in Java, Python, and Node.js for backend development.
 
 I have worked on a **Deepfake Image Detection System** using technologies like **Python, TensorFlow/PyTorch, OpenCV, and CNN-based deep learning models** to analyze and detect manipulated images. I have also developed a blog system backend and other application-based projects. Currently, I am focused on strengthening my knowledge in multithreading, system design, and production-ready AI solutions.
 
 I am eager to take on new challenges, collaborate with dynamic teams, and contribute to building impactful real-world applications.
+
+---
+
+## 🔥 Featured Projects
+
+### 🧠 Deepfake Image Detection System
+- Built using Python, TensorFlow/PyTorch, OpenCV  
+- Detects manipulated images using CNN models  
+
+### 📘 Blog System Backend
+- REST API with authentication & CRUD operations  
+- Built using Node.js  
 
 ---
 
@@ -57,13 +82,25 @@ MySQL
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ashutoshdash26&theme=tokyonight&show_icons=true" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=Ashutoshdash26&theme=tokyonight" />
+
+<!-- Light Mode -->
+<img src="https://github-readme-stats.vercel.app/api?username=Ashutoshdash26&show_icons=true&theme=default#gh-light-mode-only" />
+
+<!-- Dark Mode -->
+<img src="https://github-readme-stats.vercel.app/api?username=Ashutoshdash26&show_icons=true&theme=tokyonight#gh-dark-mode-only" />
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutoshdash26&layout=compact&theme=tokyonight" />
+
+<!-- Light Mode -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutoshdash26&layout=compact&theme=default#gh-light-mode-only" />
+
+<!-- Dark Mode -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutoshdash26&layout=compact&theme=tokyonight#gh-dark-mode-only" />
+
 </p>
 
 ---
